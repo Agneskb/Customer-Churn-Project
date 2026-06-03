@@ -25,6 +25,7 @@ During the initial analysis, several key trends emerged regarding customer churn
     * Machine Learning: `scikit-learn` *(Add other ML libraries here if you used them, like XGBoost or LightGBM)*
 
 ## 📝 Project Structure
+```
 customer-churn-prediction/
 │
 ├── data/
@@ -35,4 +36,5 @@ customer-churn-prediction/
 │
 ├── README.md                   <- The main documentation file
 ├── requirements.txt            <- List of dependencies (e.g., pandas, numpy, scikit-learn)
-└── .gitignore                  
+└── .gitignore
+```        
